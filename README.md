@@ -1,17 +1,19 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hi%2C%20I'm%20Khushi%20Morwani%20👋&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:0a1045,100:1b2cc1&height=200&section=header&text=Hi%2C%20I'm%20Khushi%20Morwani%20👋&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python&descAlignY=58&descSize=17" width="100%" />
 </div>
 ---
 🧑‍💻 About Me
 ```yaml
-name:       "Khushi Morwani"
-location:   "Pune, India"
-role:       "Data Analyst"
-education:  "B.E. Computer Engineering @ Dr. DY Patil School of Engineering & Technology (2025)"
-currently:  "Turning raw data into decisions that matter"
-learning:   "Advanced DAX, Machine Learning for Analytics"
-interests:  ["Data Storytelling", "Dashboard Design", "ETL Pipelines", "HR & Retail Analytics"]
-fun_fact:   "I speak 3 languages — English, Hindi & Sindhi — and one more: SQL 🗃️"
+name:         "Khushi Morwani"
+location:     "Pune, India"
+background:   "B.E. Computer Engineering @ Dr. DY Patil School of Engineering & Technology (2025)"
+role:         "Data Analyst"
+working_on:   "Campaign analytics, dashboard development & ETL pipelines using Power BI & Python"
+collaborating:"Data analytics or BI projects with real business impact"
+looking_for:  "Opportunities in data analytics, KPI reporting & dashboard development"
+learning:     ["Advanced DAX", "Machine Learning for Analytics", "APIs", "Time-Series Forecasting"]
+ask_me_about: ["Power BI", "SQL", "Python", "EDA", "ETL Pipelines", "Data Visualization"]
+fun_fact:     "I speak 3 languages — English, Hindi & Sindhi — and one more: SQL 🗃️"
 ```
 ---
 🛠️ Tech Stack
@@ -29,19 +31,26 @@ Libraries & Tools
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power%20Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 </div>
 ---
 🚀 Featured Projects
-Project	Description	Stack	Links
-Retail Sales Campaign Analytics Dashboard	Dynamic dashboard tracking sales, profit & discount metrics across global markets with YoY growth analysis	`Power BI` `DAX` `Power Query`	Repo
-Employee Attrition Analysis	SQL-driven HR analysis identifying high-attrition departments, job roles & salary bands for strategic HR decisions	`SQL` `HR Analytics`	Repo
+🔹 Retail Sales Campaign Analytics Dashboard
+> Built a dynamic Power BI dashboard analyzing sales, profit, and discount metrics across global markets, tracking **YoY growth, profit margin & discount impact** via DAX measures. Used Power Query for multi-source data ingestion; delivered recommendations on top-performing segments to support business strategy and inventory planning.
+`Power BI` `DAX` `Power Query` `Campaign Analytics`  →  View Repo
+---
+🔹 Employee Attrition Analysis
+> Queried large HR datasets using advanced SQL (joins, CASE, subqueries, window functions) to identify **high-attrition departments, job roles & salary bands** for data-driven HR decision-making.
+`SQL` `HR Analytics` `Window Functions` `EDA`  →  View Repo
 ---
 💼 Experience
-Data Engineer Intern @ Shoption Pvt. Ltd, Pune (Jan 2024 – Feb 2024)
-📊 Designed & maintained interactive Power BI dashboards for campaign, sales & operational KPIs
+🏢 Data Engineer Intern — Shoption Pvt. Ltd, Pune (Jan 2024 – Feb 2024)
+📊 Designed & maintained interactive Power BI dashboards tracking campaign effectiveness, sales performance & operational KPIs
 🔄 Built & optimized ETL pipelines using SQL & Python (Pandas) from CRM and sales platforms
-🔍 Translated complex datasets into actionable insights on trends & anomalies
-🤝 Collaborated with stakeholders to deliver custom analytical solutions
+🔍 Translated complex datasets into actionable insights on sales trends & anomalies
+🤝 Collaborated with stakeholders to deliver custom analytical solutions and documented analytics processes for transparency
 ---
 🏅 Certifications
 📜 Data Analyst Certification — ExcelR Solutions
@@ -54,6 +63,11 @@ Data Engineer Intern @ Shoption Pvt. Ltd, Pune (Jan 2024 – Feb 2024)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushiMorwani&theme=tokyonight&hide_border=true" width="60%" />
 </div>
 ---
+🤝 I'm Open To
+💡 Collaborating on data analytics, BI, or ML projects with real business use cases
+🧠 Learning about advanced DAX, feature engineering & ML for analytics
+📬 Connecting with data professionals and fellow analysts
+---
 🌐 Let's Connect
 <div align="center">
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -62,7 +76,7 @@ Data Engineer Intern @ Shoption Pvt. Ltd, Pune (Jan 2024 – Feb 2024)
 </div>
 ---
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" width="100%" />
-"Without data, you're just another person with an opinion." — W. Edwards Deming
-![Profile Views](https://komarev.com/ghpvc/?username=KhushiMorwani&style=flat-square&color=0f3460)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2cc1,50:0a1045,100:0d0221&height=100&section=footer" width="100%" />
+"⭐ Focused on turning data into decisions through real-world analytics projects."
+![Profile Views](https://komarev.com/ghpvc/?username=KhushiMorwani&style=flat-square&color=1b2cc1)
 </div>
