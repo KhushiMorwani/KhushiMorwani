@@ -28,7 +28,7 @@ Currently, I am focused on building end-to-end data analysis projects and streng
 - Created interactive filters for insights
 
 ---
- Git, GitHub, ## 🛠️ Skills & Tools
+ ## 🛠️ Skills & Tools
 
 - **Languages:** Python, SQL  
 - **Data Analysis:** Pandas, NumPy, EDA  
